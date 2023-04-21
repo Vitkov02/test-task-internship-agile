@@ -1,0 +1,41 @@
+{
+    "tshirts": {
+      "S": 10,
+      "M": 20,
+      "L": 15,
+      "XL": 8,
+      "XXL": 5,
+      "XXXL": 3
+    },
+    "participants": [
+      {
+        "name": "Alice",
+        "size": "M"
+      },
+      {
+        "name": "Bob",
+        "size": "XL"
+      },
+      {
+        "name": "Charlie",
+        "size": "L"
+      },
+      {
+        "name": "Dave",
+        "size": "S"
+      },
+      {
+        "name": "Eve",
+        "size": "M"
+      },
+      {
+        "name": "Frank",
+        "size": "S"
+      },
+      {
+        "name": "Grace",
+        "size": "L"
+      }
+    ]
+  }
+  
